@@ -1,4 +1,4 @@
 # catch-me-game
-"try to catch me game" with HTML CSS and vanilla JS
+Developed with HTML CSS and Vanilla JS.
 
 [Demo](https://catch-me-game.netlify.app)
